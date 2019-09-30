@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <string name="NombreAutor">Marc Coves Sola</string>
+    <string name="textoBotonAgenda">Agenda</string>
+    <string name="TextoBotonCalculadora">Calculadora</string>
+    <string name="TextoBotonReceta">Receta</string>
+    <string name="title_activity_agenda">AgendaActivity</string>
+    <string name="title_activity_calculadora">CalculadoraActivity</string>
+</resources>
